@@ -1,0 +1,15 @@
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\bin\Release\net10.0\CleanArchitecture.Application.deps.json
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\bin\Release\net10.0\CleanArchitecture.Application.dll
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\bin\Release\net10.0\CleanArchitecture.Application.pdb
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\bin\Release\net10.0\CleanArchitecture.Domain.dll
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\bin\Release\net10.0\CleanArchitecture.Domain.pdb
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\CleanArchitecture.Application.AssemblyInfo.cs
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\CleanArc.03AFA812.Up2Date
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\CleanArchitecture.Application.dll
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\refint\CleanArchitecture.Application.dll
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\CleanArchitecture.Application.pdb
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Application\obj\Release\net10.0\ref\CleanArchitecture.Application.dll

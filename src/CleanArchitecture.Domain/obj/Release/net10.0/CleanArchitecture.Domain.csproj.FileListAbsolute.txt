@@ -1,0 +1,11 @@
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\bin\Release\net10.0\CleanArchitecture.Domain.deps.json
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\bin\Release\net10.0\CleanArchitecture.Domain.dll
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\bin\Release\net10.0\CleanArchitecture.Domain.pdb
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\obj\Release\net10.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\obj\Release\net10.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\obj\Release\net10.0\CleanArchitecture.Domain.AssemblyInfo.cs
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\obj\Release\net10.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\obj\Release\net10.0\CleanArchitecture.Domain.dll
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\obj\Release\net10.0\refint\CleanArchitecture.Domain.dll
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\obj\Release\net10.0\CleanArchitecture.Domain.pdb
+X:\Source\ForMyProfile\dotnet-microservices-demo\clean-architecture-dotnet\src\CleanArchitecture.Domain\obj\Release\net10.0\ref\CleanArchitecture.Domain.dll
